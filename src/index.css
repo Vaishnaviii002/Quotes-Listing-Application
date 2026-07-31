@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
